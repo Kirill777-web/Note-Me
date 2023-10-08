@@ -50,7 +50,7 @@ To get the Note Taker App up and running on your local machine, follow these ste
 
 ## Links
 
-- This is the link of my [GitHub repository]()
+- This is the link of my [GitHub repository](https://github.com/Kirill777-web/Note-Me)
 - The following screenshot of the app ![Note-Me](/Assets/Added%20Note%20to%20the%20app.png)
 - The following screenshot of the app show two notes ![Note-Me](/Assets/Two%20Notes.png)
 - The following screenshot of the app deleted note ![Note-Me](/Assets/Deleted%20one%20note.png)

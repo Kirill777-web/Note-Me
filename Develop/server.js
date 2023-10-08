@@ -6,7 +6,7 @@ const htmlRoutes = require('./routes/htmlRoutes');
 // Middleware
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use(express.static('public')); // To serve static files
+app.use(express.static(path.join(__dirname, 'public')));
 
 // Routes
 app.use('/api', apiRoutes);

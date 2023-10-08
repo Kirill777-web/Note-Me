@@ -51,11 +51,10 @@ To get the Note Taker App up and running on your local machine, follow these ste
 ## Links
 
 - This is the link of my [GitHub repository](https://github.com/Kirill777-web/Note-Me)
+- Link to the Heroku [Heroku](https://note-me-app-563f60f93fb6.herokuapp.com/notes)
 - The following screenshot of the app ![Note-Me](/Assets/Added%20Note%20to%20the%20app.png)
 - The following screenshot of the app show two notes ![Note-Me](/Assets/Two%20Notes.png)
 - The following screenshot of the app deleted note ![Note-Me](/Assets/Deleted%20one%20note.png)
-
-- Link to the Heroku [Heroku]()
 
 ## Credits
 

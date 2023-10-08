@@ -55,7 +55,7 @@ To get the Note Taker App up and running on your local machine, follow these ste
 - The following screenshot of the app show two notes ![Note-Me](/Assets/Two%20Notes.png)
 - The following screenshot of the app deleted note ![Note-Me](/Assets/Deleted%20one%20note.png)
 
-- Link of Heroku [Heroku]()
+- Link to the Heroku [Heroku]()
 
 ## Credits
 
